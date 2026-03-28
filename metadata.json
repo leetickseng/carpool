@@ -1,0 +1,5 @@
+{
+  "name": "拼车小助手 (Carpool Helper)",
+  "description": "一个便捷的拼车H5应用，支持发布行程和寻找行程。",
+  "requestFramePermissions": []
+}
